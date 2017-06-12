@@ -10,9 +10,9 @@ namespace UnicamFattoriale
             //Print some helpful messages to the user, so he will know what he should do
             
             //This program calculates the factorial of a number
-            Console.WriteLine("Questo programma calcola il fattoriale di un numero");
+            Console.WriteLine("This program calculates the factorial of a number");
             //Type a number then press Enter
-            Console.Write("Digita un numero e premi invio: ");
+            Console.Write("Type a number then press Enter: ");
 
             //Console.ReadLine si mette in attesa che l'utente digiti qualcosa e prema invio.
             //Quando ha premuto invio, il testo che ha digitato lo assegno ad una variabile di tipo string.
